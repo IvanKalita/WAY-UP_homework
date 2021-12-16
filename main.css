@@ -1,0 +1,34 @@
+
+h1 {
+    color:red;
+    font-size: 30px;
+}
+.new {
+    color: white;
+    background-color: blue;
+    width: 100px;
+}
+.new-code {
+    color: red;
+}
+h2 {
+    background-color: green;
+    color:white;
+    padding: 5px;
+}
+a {
+    color: blue;
+}
+.what {
+    padding: 50px;
+}
+.forms {
+    margin-left: 115px;
+}
+.list {
+    border: 1px solid black;
+    font-size: 30px;
+}
+.logo {
+    width: 150px;
+}
